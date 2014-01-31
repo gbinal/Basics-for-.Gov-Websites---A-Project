@@ -6,4 +6,12 @@ filename: Sitemaps-dot-xml.md
 title: Sitemaps.xml
 ---
 
-...
+## What?  
+
+
+## Why?  
+
+
+## How?  
+
+
