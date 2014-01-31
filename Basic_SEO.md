@@ -6,5 +6,11 @@ filename: Basic_SEO.md
 title: Basic SEO
 ---
 
+## What?  
 
+
+## Why?  
+
+
+## How?  
 
