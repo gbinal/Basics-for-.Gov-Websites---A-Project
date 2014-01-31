@@ -7,4 +7,13 @@ title: Smart Shortcuts
 ---
 
 
-...
+
+## What?  
+
+
+## Why?  
+
+
+## How?  
+
+
