@@ -6,4 +6,10 @@ filename: index.md
 title: Home
 ---
 
-## Text
+## Background
+
+
+## Targets
+
+
+## Major Steps and Goals
