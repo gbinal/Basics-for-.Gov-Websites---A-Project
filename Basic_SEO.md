@@ -7,7 +7,7 @@ title: Basic SEO
 ---
 
 ## What?  
-
+ 
 
 ## Why?  
 
